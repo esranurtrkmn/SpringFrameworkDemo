@@ -1,4 +1,4 @@
-# HRMS SYSTEM DEMO WITH SPRING FRAMEWORK.
+# HRMS DEMO WITH SPRING FRAMEWORK.
  This Demo lists the job adverts in database table using PostgreSQL
 
 
